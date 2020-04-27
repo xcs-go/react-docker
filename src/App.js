@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-	<p>项目自动化构建测试流程</p>
+	<p>项目自动化构建测试流程--jenkins--test</p>
       </header>
     </div>
   );
